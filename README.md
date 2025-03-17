@@ -42,11 +42,11 @@ O projeto possui a seguinte estrutura de arquivos:
 ```
 /amigo-secreto
 ├── index.html           # Arquivo principal que carrega o script
-└── script.js            # Código JavaScript que implementa a lógica da aplicação
+├── style.css           # Arquivo que estiliza a aplicação
+├── assets           # Arquivos com imagens utilizadas na estilização
+└── app.js            # Código JavaScript que implementa a lógica da aplicação
 ```
 
-- **index.html**: Arquivo que contém o HTML básico para carregar o script e exibir a aplicação.
-- **script.js**: Arquivo onde todo o JavaScript da aplicação reside, criando a interface e realizando o sorteio.
 
 ---
 
